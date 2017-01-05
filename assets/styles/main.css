@@ -1,0 +1,16 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+}
+@font-face {
+	font-family: 'KenVector-Future';
+	src: url('./../fonts/KenVector-Future.eot?#iefix') format('embedded-opentype'),
+		url('./../fonts/KenVector-Future.woff') format('woff'),
+		url('./../fonts/KenVector-Future.ttf')  format('truetype'),
+		url('./../fonts/KenVector-Future.svg#KenVector-Future') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+.fontPreload {
+	font-family: 'KenVector-Future';
+}
